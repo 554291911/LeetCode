@@ -14,6 +14,6 @@ public class No4_PalindromeNumber {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(new No4_PalindromeNumber().isPalindrome(12321));
+		System.out.println(new No4_PalindromeNumber().isPalindrome(123454321));
 	}
 }
